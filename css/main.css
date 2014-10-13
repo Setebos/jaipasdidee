@@ -1,0 +1,13 @@
+h1 {
+    font-size: 400%;
+    text-align: center;
+}
+
+.gif-image {
+	text-align: center;
+	height: 500px;
+}
+
+.gif-image img {
+	height: 100%
+}
